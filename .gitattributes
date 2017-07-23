@@ -13,6 +13,8 @@
 *.vbs text
 *.htm text
 *.html text
+*.scss text
+*.yml text
 Makefile text
 
 # Declare files that will always have CRLF line endings on checkout.

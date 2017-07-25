@@ -7,7 +7,10 @@ theme: jekyll-theme-minimal
 description: I solemnly swear that I am up to no good
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: http://orig12.deviantart.net/efd4/f/2014/156/0/6/tetsuo_by_ju_ichi_gatsu-d7l4gz3.png
+avatar: ./images/killer-queen-bites-the-dust.png
+# https://www.shitpostbot.com/img/sourceimages/killer-queen-bites-the-dust-5849172062462.png
+
+# http://orig12.deviantart.net/efd4/f/2014/156/0/6/tetsuo_by_ju_ichi_gatsu-d7l4gz3.png
 
 #
 # Flags below are optional

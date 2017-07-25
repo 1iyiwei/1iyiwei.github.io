@@ -18,9 +18,16 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+  background: $white;
   color: $darkGray;
+  /* 'Caecilia' */
+  /* 'Lucida Console', 'Cousine' */
+  font-family: Verdana, Candara, Arial, Helvetica, Tahoma, sans-serif;
+  /* font-family: "palatino linotype", palatino, "calibri", "Trebuchet MS", Georgia, serif, Hei, SimSun, FangSong, KaiTi; */
+  line-height: 1.2;
+  /* font-size: 80%; */
+  /* color: #222; */
+  padding: 1em;
 }
 
 .container {

@@ -4,7 +4,7 @@ comments: true
 title: "GitHub versus WordPress for blogging"
 ---
 
-I have been (blogging with WordPress)[http://blog.liyiwei.org/] for a while, and started experimenting with GitHub here.
+I have been [blogging with WordPress](http://blog.liyiwei.org/) for a while, and started experimenting with GitHub here.
 
 GitHub allows explicit control of all files via git and is fun to use, for programmers at least.
 However, WordPress offers more functionality with friendlier interface for general users.

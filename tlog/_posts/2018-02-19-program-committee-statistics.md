@@ -1,4 +1,8 @@
-# Program committee statistics #
+---
+layout: post
+comments: true
+title: "Program committee statistics"
+---
 
 Jump to the bottom for a short, visual explanation.
 

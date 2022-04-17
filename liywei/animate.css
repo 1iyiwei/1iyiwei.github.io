@@ -1,6 +1,17 @@
+#frame
+{ 
+  position: relative;
+  width: 100%;
+  padding-top: 133.33%; 
+  /* border: thin solid black; */
+}
+
 #photo
 {
   height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 #icon
@@ -12,22 +23,20 @@
   animation-timing-function: linear;
   
   /* other properties */
-  height: 2%;
+  height: 1.5%;
   position: absolute;
   left: 60%; 
-  right: 0; /* 
-  margin-left: auto;
-  margin-right: auto;  */
+  right: 0;
 }
 
 @keyframes icon-up-down
 {
   from 
   {
-    top: 30%;
+    top: 33%;
   }
   to 
   {
-    top: 35%;
+    top: 35.5%;
   }
 }

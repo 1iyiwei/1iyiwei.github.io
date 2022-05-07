@@ -45,6 +45,12 @@
         font-family: fantasy;
         color: #FF5733;
       }
+      #banana_cake {
+        font-family: fantasy;
+        color: #FFC300;
+        font-size: 18px; 
+        -webkit-text-stroke: 1px black;
+      }
       #suggestions {
         margin-top: 35px;
         color: #ccc;
@@ -143,11 +149,13 @@
     <div class="container">
       <p><strong>Looks like something went wrong!</strong></p>
 
-      <p>If this problem persists, please contact your GitHub Enterprise administrator.</p>
-<p id="break"> In the meantime, why don't you take a break?</p>
+      <p>
+        If this problem persists, please contact your GitHub Enterprise administrator.
+        <span id="break"> In the meantime, why don't you take a break?</span>
+      </p>
 
       <div id="suggestions">
-        <a href="mailto:???@foo.bar">Order Banana Cake</a>
+        <a href="mailto:???@foo.bar"><span id="banana_cake">Order Banana Cake</span></a>
       </div>
     <script type="text/javascript" src="./_error.js"></script>
   
